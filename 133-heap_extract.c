@@ -1,3 +1,5 @@
+#include <stdlib.h>
+#include <stdio.h>
 #include "binary_trees.h"
 
 int heap_extract(heap_t **root);
